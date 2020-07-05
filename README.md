@@ -1,8 +1,8 @@
 # Color_Image_Segmentation
 Color image segmentatiom using several state-of-art clustering algorithms, including Fuzzy c-means clustering (FCM), Fuzzy subspace clustering (FSC), Maximum entropy clustering (MEC) and Gaussian mixture model (GMM).  
 ****  
-FCM, FSC and MEC have introducted in [Fuzzy_Clustering_Algorithms](https://github.com/kailugaji/Fuzzy_Clustering_Algorithms).  
-GMM has intruducted in [Gaussian_Mixture_Model_for_Clustering](https://github.com/kailugaji/Gaussian_Mixture_Model_for_Clustering).  
+FCM, FSC and MEC have introduced in [Fuzzy_Clustering_Algorithms](https://github.com/kailugaji/Fuzzy_Clustering_Algorithms).  
+GMM has introduced in [Gaussian_Mixture_Model_for_Clustering](https://github.com/kailugaji/Gaussian_Mixture_Model_for_Clustering).  
 ****  
 ## An example for Color Image Sementation  
 The row image:  
