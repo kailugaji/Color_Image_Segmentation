@@ -9,13 +9,13 @@ The row image:
 ![](https://github.com/kailugaji/Color_Image_Segmentation/blob/master/Image%20data/1.jpg)  
 Run demo_color_segmentation.m  
 The segmentation results:  
-FCM:  
+### FCM   
 ![](https://github.com/kailugaji/Color_Image_Segmentation/blob/master/Clustering%20Results/Result_FCM.jpg)  
-FSC:  
+### FSC  
 ![](https://github.com/kailugaji/Color_Image_Segmentation/blob/master/Clustering%20Results/Result_FSC.jpg)
-MEC:  
+### MEC    
 ![](https://github.com/kailugaji/Color_Image_Segmentation/blob/master/Clustering%20Results/Result_MEC.jpg)  
-GMM:  
+### GMM    
 ![](https://github.com/kailugaji/Color_Image_Segmentation/blob/master/Clustering%20Results/Result_GMM.jpg)  
 ## Author of Code  
 Rongrong Wang (kailugaji)   
