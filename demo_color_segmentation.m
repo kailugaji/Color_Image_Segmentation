@@ -1,4 +1,5 @@
 % Color Image Segmentation
+% Written by kailugaji. (wangrongrong1996@126.com)
 clear
 clc
 addpath(genpath('.'));
