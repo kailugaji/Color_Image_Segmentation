@@ -3,6 +3,7 @@ Color image segmentatiom using several state-of-art clustering algorithms, inclu
 ****  
 FCM, FSC and MEC have introduced in [Fuzzy_Clustering_Algorithms](https://github.com/kailugaji/Fuzzy_Clustering_Algorithms).  
 GMM has introduced in [Gaussian_Mixture_Model_for_Clustering](https://github.com/kailugaji/Gaussian_Mixture_Model_for_Clustering).  
+In order to achieve better segmentation results, hyperparameters can be adjusted appropriately. 
 ****  
 ## An example for Color Image Sementation  
 The row image:  
